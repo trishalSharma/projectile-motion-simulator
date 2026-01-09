@@ -33,19 +33,17 @@ Where:
 
 ## Project Architecture
 
-src/
-│── components/
-│ ├── Canvas.jsx # Simulation & rendering logic
-│ ├── Controls.jsx # User input controls
-│ └── Stats.jsx # Computed results display
-│
-│── utils/
-│ └── calculation.js # Physics helper functions
-│
-│── App.jsx # State management & coordination
-│── main.jsx
-│── index.css
-
+- **src/**
+  - **components/**
+    - `Canvas.jsx` – Simulation rendering logic
+    - `Controls.jsx` – User input controls
+    - `Stats.jsx` – Computed results display
+  - **utils/**
+    - `calculation.js` – Physics helper functions
+  - `App.jsx` – State management & coordination
+  - `main.jsx` – Application entry point
+  - `index.css` – Global styles
+  
 ## How to Run Locally
 
 1. Clone the repository:
