@@ -79,9 +79,9 @@ src/
 
 ## Team
 
-- **Trishal Sharma** – Lead developer; responsible for the core implementation, simulation logic, canvas rendering, and overall project architecture.
+- **Trishal Sharma** – Lead developer; responsible for the core implementation, simulation logic, canvas rendering, GitHub repository management and overall project architecture.
 
-- **Harshit Sharma** – Contributed to selected code components, testing, debugging, and managed project presentation and documentation support.
+- **Harshit Sharma** – Contributed to selected code components, testing, debugging, and managed project presentation, Demo preparation and documentation support.
 
 - **Rishabh Chawla** – Assisted in development, coordination, testing, and overall team collaboration to ensure quality and timely completion of the project.
 
